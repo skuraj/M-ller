@@ -1,0 +1,6 @@
+{
+  "name": "Müller Café & Bäckerei Herrsching",
+  "description": "Premium Webseite & Vorbestellungs-System für Müller Café & Bäckerei im EDEKA Herrsching am Ammersee. Handwerkliche Frische, Snacks, Brot und Kuchen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
